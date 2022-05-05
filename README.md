@@ -1,3 +1,5 @@
+To use the app enter the city then comma and country. ( I.E. Albany, US ) 
+
 # vueweather
 
 ## Project setup
